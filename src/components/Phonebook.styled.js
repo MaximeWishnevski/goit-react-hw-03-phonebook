@@ -13,10 +13,10 @@ export const Section = styled.section`
   margin-left: auto;
   padding: 10px;
   margin-right: auto;
-  background-color: #7d7edb;
+  background-color: #999999;
   border-radius: 3%;
 `;
 
 export const Title = styled.h1``;
 
-export const ContcTitle = styled.h2``
+export const ContcTitle = styled.h2``;

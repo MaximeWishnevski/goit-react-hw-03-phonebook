@@ -3,11 +3,10 @@ import styled from '@emotion/styled';
 export const Button = styled.button`
   width: auto;
   height: auto;
-  display: block;
 `;
 
 export const Label = styled.label`
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   display: flex;
   flex-direction: column;
   width: 200px;
